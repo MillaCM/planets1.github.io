@@ -1,0 +1,237 @@
+a{text-decoration: none; padding: auto; color: white;}
+ul{list-style: none;}
+p{
+    background-color: rgba(0, 255, 30, 0.224);
+    width: 1000px;
+    margin-left: 200px;
+    transition: 2.5s;
+}
+.ssss{margin-left: 300px;}
+p:hover{
+    background-color: rgb(170, 236, 170);
+    transition: 3s;
+}
+.h1{margin-left: 400px; margin-bottom: 30px; color: white; background-color: tomato; padding: 20px;}
+.h2{margin-left: 600px;}
+img{margin: 0 auto;}
+h1{margin: 0 auto;}
+body{background-color: rgb(224, 148, 148);}
+.mb{width: 100px; height: 100px;}
+@keyframes anim {
+    from {
+        transform: rotate(0deg) ;
+    }
+    50% {
+        transform: rotate(180deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+    .card {
+        margin: 0 1vw;
+    }
+    main, header, footer {
+        width: 1024px;
+    }
+}
+.z123{
+    animation: anim 2s;
+    animation-iteration-count: infinite;
+}
+.logo {
+    width:50px;
+    height: 50px;
+    margin: 5px;
+    animation-delay: 5s;
+    animation: anim 2s;
+    animation-iteration-count: infinite;
+    transition: 2.5s;
+}
+.logo:hover{
+    border-radius: 50%;
+    transition: 3s;
+}
+.x {
+    width:50px;
+    height: 50px;
+    animation: anim 4s;
+    animation-iteration-count: infinite;
+    margin: 5px;
+    transition: 2.5s;
+}
+.s {
+    width:50px;
+    height: 50px;
+    animation: anim 3.5s;
+    animation-iteration-count: infinite;
+    margin: 5px;
+    transition: 2.5s;
+}
+.s:hover{
+    border-radius: 50%;
+    transition: 3s;
+}
+.x:hover{
+    border-radius: 50%;
+    transition: 3s;
+}
+.a{
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    background-color: rgb(246, 164, 205);
+    transition: 1.5;
+}
+.a:hover{
+    background-color: rgb(173, 72, 245);
+    transition: 2s;
+}
+/*.z{
+    background-color: rgb(52, 147, 179);
+    padding: 20px;
+    font-size: 20px;
+}*/
+.a1{
+    padding: 10px;
+}
+.a2{
+    padding: 10px;
+}
+.a3{
+    padding: 10px;
+}
+.a4{
+    padding: 10px;
+}
+.a5{
+    padding: 10px;
+}
+.a1:hover{
+    color: rgb(60, 0, 255);
+}
+.a2:hover{
+    color: rgb(60, 0, 255);
+}
+.a3:hover{
+    color: rgb(60, 0, 255);
+}
+.a4:hover{
+    color: rgb(60, 0, 255);
+}
+.a5:hover{
+    color: rgb(60, 0, 255);
+}
+.back {
+    font-size: 3rem;
+    position: fixed;
+    top: 90vh;
+    left: 3vw;
+    width: 30px;
+    height: 30px;
+    transition: 2s;
+}
+h1{
+    margin: 0 auto;
+}
+.was{
+    background-color: steelblue;
+    height: 10px;
+    width: 1338px;
+    transition: 1.5s;
+}
+.h1:hover{
+    font-size: 40px;
+    width: 700px;
+    margin-left: 350px;
+    border-radius: 20%;
+    transition: 2s;
+}
+.back{
+    width: 70px;
+    height: 70px;
+}
+.ssss{
+    border-radius: 5%;
+    transition: 1.5s;
+}
+.ssss:hover{
+    border-radius: 20%;
+    width: 900px;
+    height: 600px;
+    transition: 2s;
+    margin-left: 250px;
+}
+p:hover{color: rgb(121, 88, 88);}
+.z{
+    position: fixed;
+    overflow: hidden;
+    color: white;
+    width: 50px;
+    height: 5px;
+    transition: 2s;
+}
+/*.z:hover{
+    background-color: rgb(2, 192, 255);
+    transition: 1s;
+    font-size: 30px;
+    width: 300px;
+    height: 280px;
+}*/
+.a{position: fixed;}
+.was{margin-top: 100px;}
+.button_menu{
+    background-color: rgb(2, 192, 255);
+    color: white;
+    position: fixed;
+    transition: 0.5s;
+}
+.a{margin-left: 100px; margin-top: -10px; transition: 2s;}
+.button_menu:hover{background-color: violet; transition: 0.5s;}
+.button_menu:active{background-color: rgb(96, 96, 235);}
+hr:hover{background-color: brown; transition: 0.5s;} /*color: rgb(250, 127, 127);*/
+.z:hover{
+    width: 220px;
+    height: 120px;
+    background-color: rgb(173, 72, 245);
+    position: absolute;
+    transition: 1s;
+    padding: 20px;
+    font-size: 20px;
+    position: fixed;
+}
+.menu{margin-left: 300px;}
+li{text-decoration: none;}
+.z{position: fixed;}
+.a1{margin-top: 100px;}
+.z{margin-top: 15px;}
+.button_menu:hover{
+    margin-top: -20px;
+    margin-left: -20px;
+}
+.button_menu:active{
+    margin-top: -20px;
+    margin-left: -20px;
+}
+.button_menu{margin-top: -20px; margin-left: -5px;}
+p{color: white;}
+h2{color: rgb(60, 0, 255);}
+cite{color: royalblue; background-color: salmon; width: 300px; height: 20px;}
+h4{text-align: center;}
+.h1{margin-top: 20px; text-align: center; margin-left: 300px; transition: 1s;}
+footer{font-size: 30px;}
+.button_menu{top: 30px; left: 20px;}
+.button_menu:hover{top: 30px; left: 35px;}
+p{padding: 5px; font-size: 30px;}
+.foot{width: 1331px; height: 200px; border-radius: 15%; border: 2px dotted navy; margin-left: 0px; background-color: slateblue;}
+.h2{font-size: 50px;}
+.lama:hover{width: 200px; height: 200px; border-radius: 15%; border: 2px dashed black; background-image: url(https://i.gifer.com/origin/32/32aed20cf70f0362b28be52e1e789280_w200.webp); text-emphasis: none; transition: 2s;}
+.lama{width: 200px; height: 200px; border-radius: 15px; border: 2px dashed black; position: absolute; margin-left: 1100px; transition: 1.5s;}
+.lama1{width: 200px; height: 200px; border-radius: 15px; border: double 2px white; position: absolute; margin-left: 850px; transition: 1.5s;}
+.lama1:hover{background-image: url(https://i.gifer.com/origin/68/68b7653022c5157f9a71f68593ee1bd9_w200.webp);}
+.z123{width: 90px; height: 90px;}
+.a{width: 321px; height: 111px;}
+.was{margin-top: 200px;}
+.cat{margin-left: 1000px; width: 100px; height: 100px; transition: 5s;}
+.but:hover .cat {margin-left: 0px; transition: linear 5s;}
+.text{font-size: 30px; color: white; text-align: center;}
